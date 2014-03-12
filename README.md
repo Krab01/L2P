@@ -1,4 +1,4 @@
 L2P
 ===
 
-l2 interlude server
+implementation of l2 interlude server in c++ language
